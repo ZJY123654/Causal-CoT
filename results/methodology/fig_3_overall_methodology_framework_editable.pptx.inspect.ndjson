@@ -1,0 +1,115 @@
+{"kind":"slide","id":"sl/oeaovo","slide":1,"title":"Research step","textShapes":52}
+{"kind":"textbox","id":"sh/fuhg3exo","slide":1,"name":"header-research-step","text":"Research step","textPreview":"Research step","textChars":13,"textLines":1,"bbox":[20,12,282,60]}
+{"kind":"textbox","id":"sh/gfqxcjy9","slide":1,"name":"header-content","text":"Content","textPreview":"Content","textChars":7,"textLines":1,"bbox":[320,12,300,60]}
+{"kind":"textbox","id":"sh/1gzy5ofe","slide":1,"name":"header-implementation","text":"Specific implementation method","textPreview":"Specific implementation method","textChars":30,"textLines":1,"bbox":[646,12,866,60]}
+{"kind":"shape","id":"sh/6pof6pgr","slide":1,"name":"band-31","bbox":[10,88,1516,146]}
+{"kind":"shape","id":"sh/rqxgzuxc","slide":1,"name":"band-32","bbox":[10,244,1516,180]}
+{"kind":"shape","id":"sh/sr6x8zyx","slide":1,"name":"band-33","bbox":[10,434,1516,170]}
+{"kind":"shape","id":"sh/tszy14fi","slide":1,"name":"band-34","bbox":[10,614,1516,232]}
+{"kind":"textbox","id":"sh/alszitgb","slide":1,"name":"stage-31","text":"3.1 Collection and\npreprocessing","textPreview":"3.1 Collection and | preprocessing","textChars":32,"textLines":2,"bbox":[22,106,280,110]}
+{"kind":"textbox","id":"sh/bm1gbyxw","slide":1,"name":"stage-32","text":"3.2 24Model ontology\ndevelopment","textPreview":"3.2 24Model ontology | development","textChars":32,"textLines":2,"bbox":[22,262,280,144]}
+{"kind":"textbox","id":"sh/nqd4r29c","slide":1,"name":"stage-33","text":"3.3 Question-guided\nHEC-KG construction","textPreview":"3.3 Question-guided | HEC-KG construction","textChars":39,"textLines":2,"bbox":[22,452,280,134]}
+{"kind":"textbox","id":"sh/2p4nyxs7","slide":1,"name":"stage-34","text":"3.4 Causal-effect\nestimation","textPreview":"3.4 Causal-effect | estimation","textChars":28,"textLines":2,"bbox":[22,632,280,196]}
+{"kind":"textbox","id":"sh/psfmtcri","slide":1,"name":"content-31","text":"• Multi-source collection\n• Cleaning and segmentation\n• Irreversible anonymization","textPreview":"• Multi-source collection | • Cleaning and segmentation | • Irreversible anonymization","textChars":82,"textLines":3,"bbox":[320,106,300,110]}
+{"kind":"textbox","id":"sh/or6507ax","slide":1,"name":"content-32","text":"• Upper-level causal framework\n• HEC domain extension\n• Ontology constraints","textPreview":"• Upper-level causal framework | • HEC domain extension | • Ontology constraints","textChars":76,"textLines":3,"bbox":[320,262,300,144]}
+{"kind":"textbox","id":"sh/bux4v29o","slide":1,"name":"content-33","text":"• Entity identification\n• Relation reasoning\n• Verification and knowledge fusion","textPreview":"• Entity identification | • Relation reasoning | • Verification and knowledge fusion","textChars":80,"textLines":3,"bbox":[320,452,300,134]}
+{"kind":"textbox","id":"sh/aton2hs3","slide":1,"name":"content-34","text":"• Causal variable matrix\n• Prior causal graph\n• Identification, estimation, and refutation","textPreview":"• Causal variable matrix | • Prior causal graph | • Identification, estimation, and refutation","textChars":90,"textLines":3,"bbox":[320,632,300,196]}
+{"kind":"shape","id":"sh/xwf6xcru","slide":1,"name":"arrow-31-a","bbox":[306,144,22,34]}
+{"kind":"shape","id":"sh/cv6547a9","slide":1,"name":"arrow-31-b","bbox":[624,144,22,34]}
+{"kind":"shape","id":"sh/zyxozm9k","slide":1,"name":"arrow-32-a","bbox":[306,317,22,34]}
+{"kind":"shape","id":"sh/yxon6hsz","slide":1,"name":"arrow-32-b","bbox":[624,317,22,34]}
+{"kind":"shape","id":"sh/uts7ylc7","slide":1,"name":"arrow-33-a","bbox":[306,502,22,34]}
+{"kind":"shape","id":"sh/vu18rqts","slide":1,"name":"arrow-33-b","bbox":[624,502,22,34]}
+{"kind":"shape","id":"sh/gfap0vud","slide":1,"name":"arrow-34-a","bbox":[306,713,22,34]}
+{"kind":"shape","id":"sh/hgjqt0by","slide":1,"name":"arrow-34-b","bbox":[624,713,22,34]}
+{"kind":"textbox","id":"sh/6p87u1cb","slide":1,"name":"row31-1","text":"Safehoo + MEM +\ncase compilation","textPreview":"Safehoo + MEM + | case compilation","textChars":32,"textLines":2,"bbox":[660,130,190,62]}
+{"kind":"textbox","id":"sh/7q18n6tw","slide":1,"name":"row31-2","text":"Keyword retrieval\nand screening","textPreview":"Keyword retrieval | and screening","textChars":31,"textLines":2,"bbox":[864,130,160,62]}
+{"kind":"textbox","id":"sh/8rapwbuh","slide":1,"name":"row31-3","text":"Case segmentation\nand normalization","textPreview":"Case segmentation | and normalization","textChars":35,"textLines":2,"bbox":[1038,130,160,62]}
+{"kind":"textbox","id":"sh/tsjqpgb2","slide":1,"name":"row31-4","text":"Privacy-preserving\nreplacement","textPreview":"Privacy-preserving | replacement","textChars":30,"textLines":2,"bbox":[1212,130,150,62]}
+{"kind":"textbox","id":"sh/qlcr65cf","slide":1,"name":"row31-5","text":"456 anonymized\nHEC cases","textPreview":"456 anonymized | HEC cases","textChars":24,"textLines":2,"bbox":[1376,130,122,62]}
+{"kind":"shape","id":"sh/rml8zat0","slide":1,"name":"row31-edge-1","bbox":[850,161,14,0]}
+{"kind":"shape","id":"sh/1gnap4vi","slide":1,"name":"row31-edge-2","bbox":[1024,161,14,0]}
+{"kind":"shape","id":"sh/0fetwzex","slide":1,"name":"row31-edge-3","bbox":[1198,161,14,0]}
+{"kind":"shape","id":"sh/fe5snudc","slide":1,"name":"row31-edge-4","bbox":[1362,161,14,0]}
+{"kind":"textbox","id":"sh/edwbupwr","slide":1,"name":"row32-top-1","text":"24Model v6 +\nHEC knowledge","textPreview":"24Model v6 + | HEC knowledge","textChars":26,"textLines":2,"bbox":[660,262,160,54]}
+{"kind":"textbox","id":"sh/dcnal4v6","slide":1,"name":"row32-top-2","text":"Top-down concept\nconstruction","textPreview":"Top-down concept | construction","textChars":29,"textLines":2,"bbox":[834,262,150,54]}
+{"kind":"textbox","id":"sh/sbetszel","slide":1,"name":"row32-top-3","text":"Entity and\nrelation types","textPreview":"Entity and | relation types","textChars":25,"textLines":2,"bbox":[998,262,150,54]}
+{"kind":"textbox","id":"sh/ra5sjud0","slide":1,"name":"row32-top-4","text":"Direction, domain,\nand range constraints","textPreview":"Direction, domain, | and range constraints","textChars":40,"textLines":2,"bbox":[1162,262,160,54]}
+{"kind":"textbox","id":"sh/q9cbqpwf","slide":1,"name":"row32-top-5","text":"HEC accident\nontology","textPreview":"HEC accident | ontology","textChars":21,"textLines":2,"bbox":[1336,262,162,54]}
+{"kind":"shape","id":"sh/x87uxova","slide":1,"name":"row32-top-edge-1","bbox":[820,289,14,0]}
+{"kind":"shape","id":"sh/c7yt4je5","slide":1,"name":"row32-top-edge-2","bbox":[984,289,14,0]}
+{"kind":"shape","id":"sh/4rm1ojel","slide":1,"name":"row32-top-edge-3","bbox":[1148,289,14,0]}
+{"kind":"shape","id":"sh/5cv2xov6","slide":1,"name":"row32-top-edge-4","bbox":[1322,289,14,0]}
+{"kind":"textbox","id":"sh/ip4jmtwf","slide":1,"name":"row32-causal-1","text":"Safety culture","textPreview":"Safety culture","textChars":14,"textLines":1,"bbox":[660,336,120,46]}
+{"kind":"textbox","id":"sh/jqd0ved0","slide":1,"name":"row32-causal-2","text":"Safety\nmanagement","textPreview":"Safety | management","textChars":17,"textLines":2,"bbox":[792,336,130,46]}
+{"kind":"textbox","id":"sh/sf61s3ex","slide":1,"name":"row32-causal-3","text":"Safety\ncapability","textPreview":"Safety | capability","textChars":17,"textLines":2,"bbox":[934,336,120,46]}
+{"kind":"textbox","id":"sh/tgf218v2","slide":1,"name":"row32-causal-4","text":"Unsafe action /\nunsafe object state","textPreview":"Unsafe action / | unsafe object state","textChars":35,"textLines":2,"bbox":[1066,336,168,46]}
+{"kind":"textbox","id":"sh/6dojqtwr","slide":1,"name":"row32-causal-5","text":"Accident\nprocess","textPreview":"Accident | process","textChars":16,"textLines":2,"bbox":[1246,336,112,46]}
+{"kind":"textbox","id":"sh/rexkzydc","slide":1,"name":"row32-causal-6","text":"Consequence","textPreview":"Consequence","textChars":11,"textLines":1,"bbox":[1370,336,128,46]}
+{"kind":"shape","id":"sh/gj61w3et","slide":1,"name":"row32-causal-edge-1","bbox":[780,359,12,0]}
+{"kind":"shape","id":"sh/1kz258ve","slide":1,"name":"row32-causal-edge-2","bbox":[922,359,12,0]}
+{"kind":"shape","id":"sh/be14v2xg","slide":1,"name":"row32-causal-edge-3","bbox":[1054,359,12,0]}
+{"kind":"shape","id":"sh/qds3mxgv","slide":1,"name":"row32-causal-edge-4","bbox":[1234,359,12,0]}
+{"kind":"shape","id":"sh/dgjmxcfm","slide":1,"name":"row32-causal-edge-5","bbox":[1358,359,12,0]}
+{"kind":"textbox","id":"sh/cfa5o7y1","slide":1,"name":"preventive-measure","text":"Preventive measure","textPreview":"Preventive measure","textChars":18,"textLines":1,"bbox":[983,389,218,27]}
+{"kind":"shape","id":"sh/3ah4r2xk","slide":1,"name":"preventive-to-management","bbox":[857,382,235,7]}
+{"kind":"shape","id":"sh/2983yxgz","slide":1,"name":"preventive-to-direct","bbox":[1092,382,58,7]}
+{"kind":"shape","id":"sh/pcjmtcfa","slide":1,"name":"group-entity-identification","bbox":[660,460,262,130]}
+{"kind":"shape","id":"sh/obql07y5","slide":1,"name":"group-relation-reasoning","bbox":[938,460,220,130]}
+{"kind":"shape","id":"sh/76l43mxo","slide":1,"name":"group-verification-fusion","bbox":[1174,460,324,130]}
+{"kind":"textbox","id":"sh/m5cnuhg3","slide":1,"name":"group-entity-title","text":"Entity identification","textPreview":"Entity identification","textChars":21,"textLines":1,"bbox":[670,464,242,28]}
+{"kind":"textbox","id":"sh/i1w72l0b","slide":1,"name":"group-relation-title","text":"Relation reasoning","textPreview":"Relation reasoning","textChars":18,"textLines":1,"bbox":[948,464,200,28]}
+{"kind":"textbox","id":"sh/j25ovqhw","slide":1,"name":"group-fusion-title","text":"Verification and fusion","textPreview":"Verification and fusion","textChars":23,"textLines":1,"bbox":[1184,464,304,28]}
+{"kind":"textbox","id":"sh/43yp4vih","slide":1,"name":"evidence-spans","text":"Evidence spans","textPreview":"Evidence spans","textChars":14,"textLines":1,"bbox":[680,495,222,27]}
+{"kind":"textbox","id":"sh/547qx0z2","slide":1,"name":"entity-discovery","text":"Ontology-guided extraction","textPreview":"Ontology-guided extraction","textChars":26,"textLines":1,"bbox":[680,527,222,27]}
+{"kind":"textbox","id":"sh/65g7650n","slide":1,"name":"gleaning","text":"Gleaning pass","textPreview":"Gleaning pass","textChars":13,"textLines":1,"bbox":[680,559,222,27]}
+{"kind":"shape","id":"sh/r6p8zahs","slide":1,"name":"entity-evidence-to-discovery","bbox":[791,522,0,5]}
+{"kind":"shape","id":"sh/s7yp8fid","slide":1,"name":"entity-discovery-to-gleaning","bbox":[791,554,0,5]}
+{"kind":"textbox","id":"sh/ts7q1kzy","slide":1,"name":"relation-question","text":"Yes/No relation\nquestions + evidence","textPreview":"Yes/No relation | questions + evidence","textChars":36,"textLines":2,"bbox":[950,508,96,58]}
+{"kind":"textbox","id":"sh/m9c7u103","slide":1,"name":"relation-voting","text":"Three-vote\nconsistency","textPreview":"Three-vote | consistency","textChars":22,"textLines":2,"bbox":[1054,508,92,58]}
+{"kind":"shape","id":"sh/7alon6ho","slide":1,"name":"relation-question-to-vote","bbox":[1046,537,8,0]}
+{"kind":"textbox","id":"sh/p0vip8ni","slide":1,"name":"schema-validation","text":"Schema validation\nand bounded repair","textPreview":"Schema validation | and bounded repair","textChars":36,"textLines":2,"bbox":[1186,508,94,58]}
+{"kind":"textbox","id":"sh/ozm1g36x","slide":1,"name":"entity-alignment","text":"String recall +\nembedding reranking","textPreview":"String recall + | embedding reranking","textChars":35,"textLines":2,"bbox":[1288,508,98,58]}
+{"kind":"textbox","id":"sh/nyt0ny5c","slide":1,"name":"canonical-kg","text":"Canonical HEC-KG\n+ Neo4j","textPreview":"Canonical HEC-KG | + Neo4j","textChars":24,"textLines":2,"bbox":[1394,508,92,58]}
+{"kind":"shape","id":"sh/2xkjetor","slide":1,"name":"fusion-validate-to-align","bbox":[1280,537,8,0]}
+{"kind":"shape","id":"sh/x4v2t8ne","slide":1,"name":"fusion-align-to-kg","bbox":[1386,537,8,0]}
+{"kind":"shape","id":"sh/c3m1kn69","slide":1,"name":"kg-question-to-validation","bbox":[1146,537,40,0]}
+{"kind":"shape","id":"sh/b2dkri5o","slide":1,"name":"entity-to-relation","bbox":[922,525,16,0]}
+{"kind":"shape","id":"sh/a14jido3","slide":1,"name":"ontology-bus-start","bbox":[1420,446,2,2]}
+{"kind":"shape","id":"sh/d8bihona","slide":1,"name":"ontology-bus-fusion","bbox":[1228,446,2,2]}
+{"kind":"shape","id":"sh/s7i18j6p","slide":1,"name":"ontology-bus-relation","bbox":[1040,446,2,2]}
+{"kind":"shape","id":"sh/kvexsna9","slide":1,"name":"ontology-bus-entity","bbox":[790,446,2,2]}
+{"kind":"shape","id":"sh/lw7e1sru","slide":1,"name":"ontology-output-to-bus","bbox":[1417,316,4,130]}
+{"kind":"shape","id":"sh/ytwfqds3","slide":1,"name":"ontology-bus-1","bbox":[1230,447,190,0]}
+{"kind":"shape","id":"sh/ju5wzi9o","slide":1,"name":"ontology-bus-2","bbox":[1042,447,186,0]}
+{"kind":"shape","id":"sh/wredo3ax","slide":1,"name":"ontology-bus-3","bbox":[792,447,248,0]}
+{"kind":"shape","id":"sh/xsnex8bi","slide":1,"name":"ontology-bus-to-entity","bbox":[791,448,0,79]}
+{"kind":"shape","id":"sh/apwvmts7","slide":1,"name":"ontology-bus-to-relation","bbox":[998,448,43,60]}
+{"kind":"shape","id":"sh/bq5wvyts","slide":1,"name":"ontology-bus-to-validation","bbox":[1229,448,4,60]}
+{"kind":"textbox","id":"sh/gnix07ah","slide":1,"name":"ontology-guidance-label","text":"ontology guidance","textPreview":"ontology guidance","textChars":17,"textLines":1,"bbox":[1080,436,150,20]}
+{"kind":"textbox","id":"sh/horetcr2","slide":1,"name":"row34-top-1","text":"Canonical HEC-KG\n+ case provenance","textPreview":"Canonical HEC-KG | + case provenance","textChars":34,"textLines":2,"bbox":[660,638,145,58]}
+{"kind":"textbox","id":"sh/bud8fqxg","slide":1,"name":"row34-top-2","text":"Case-level matrix X\n+ severe outcome Y","textPreview":"Case-level matrix X | + severe outcome Y","textChars":38,"textLines":2,"bbox":[817,638,150,58]}
+{"kind":"textbox","id":"sh/qt4r6lgv","slide":1,"name":"row34-top-3","text":"24Model prior DAG","textPreview":"24Model prior DAG","textChars":17,"textLines":1,"bbox":[979,638,142,58]}
+{"kind":"textbox","id":"sh/dwvqh0f6","slide":1,"name":"row34-top-4","text":"Support and\noverlap screening","textPreview":"Support and | overlap screening","textChars":29,"textLines":2,"bbox":[1133,638,170,58]}
+{"kind":"textbox","id":"sh/cvm98vy1","slide":1,"name":"row34-top-5","text":"Treatment-specific\nidentification graph","textPreview":"Treatment-specific | identification graph","textChars":39,"textLines":2,"bbox":[1315,638,183,58]}
+{"kind":"shape","id":"sh/zid8jaxc","slide":1,"name":"row34-top-edge-1","bbox":[805,667,12,0]}
+{"kind":"shape","id":"sh/yx4ra5gr","slide":1,"name":"row34-top-edge-2","bbox":[967,667,12,0]}
+{"kind":"shape","id":"sh/lkfqlkfi","slide":1,"name":"row34-top-edge-3","bbox":[1121,667,12,0]}
+{"kind":"shape","id":"sh/0jm9cfyx","slide":1,"name":"row34-top-edge-4","bbox":[1303,667,12,0]}
+{"kind":"textbox","id":"sh/fmt876h8","slide":1,"name":"row34-bottom-1","text":"DoWhy\nCausalModel","textPreview":"DoWhy | CausalModel","textChars":17,"textLines":2,"bbox":[660,728,120,58]}
+{"kind":"textbox","id":"sh/e1k7e1gn","slide":1,"name":"row34-bottom-2","text":"Backdoor\nidentification","textPreview":"Backdoor | identification","textChars":23,"textLines":2,"bbox":[792,728,116,58]}
+{"kind":"textbox","id":"sh/je1gz6h4","slide":1,"name":"row34-bottom-3","text":"OLS\nestimate","textPreview":"OLS | estimate","textChars":12,"textLines":2,"bbox":[920,728,100,58]}
+{"kind":"textbox","id":"sh/idsfq10j","slide":1,"name":"row34-bottom-4","text":"Bootstrap\n95% CI","textPreview":"Bootstrap | 95% CI","textChars":16,"textLines":2,"bbox":[1032,728,118,58]}
+{"kind":"textbox","id":"sh/5g3y1gza","slide":1,"name":"row34-bottom-5","text":"Random common cause\n+ placebo treatment","textPreview":"Random common cause | + placebo treatment","textChars":39,"textLines":2,"bbox":[1162,728,166,58]}
+{"kind":"textbox","id":"sh/kfuxsbip","slide":1,"name":"row34-bottom-6","text":"Effect record\nor review flag","textPreview":"Effect record | or review flag","textChars":28,"textLines":2,"bbox":[1340,728,158,58]}
+{"kind":"shape","id":"sh/va1wv6hs","slide":1,"name":"row34-bottom-edge-1","bbox":[780,757,12,0]}
+{"kind":"shape","id":"sh/apsfm10n","slide":1,"name":"row34-bottom-edge-2","bbox":[908,757,12,0]}
+{"kind":"shape","id":"sh/xcjexgzy","slide":1,"name":"row34-bottom-edge-3","bbox":[1020,757,12,0]}
+{"kind":"shape","id":"sh/wbaxobid","slide":1,"name":"row34-bottom-edge-4","bbox":[1150,757,12,0]}
+{"kind":"shape","id":"sh/f6lg7qhc","slide":1,"name":"row34-bottom-edge-5","bbox":[1328,757,12,0]}
+{"kind":"shape","id":"sh/u5cfylgr","slide":1,"name":"causal-graph-to-dowhy","bbox":[720,696,686.5,32]}
+{"kind":"textbox","id":"sh/cr6dsny9","slide":1,"name":"causal-scope","text":"Scope: severity among recorded accidents, not accident occurrence","textPreview":"Scope: severity among recorded accidents, not accident occurrence","textChars":65,"textLines":1,"bbox":[846,801,472,30]}
+{"kind":"shape","id":"sh/dsfulsfu","slide":1,"name":"stage-31-to-32","bbox":[162,216,0,46]}
+{"kind":"shape","id":"sh/qpobqdg3","slide":1,"name":"stage-32-to-33","bbox":[162,406,0,46]}
+{"kind":"shape","id":"sh/bqxcjixo","slide":1,"name":"stage-33-to-34","bbox":[162,586,0,46]}
+{"kind":"notes","id":"nt/oeaovo","slide":1,"text":"[Sources]\n- User-provided Methodology Sections 3.1-3.4: C:/Users/11517/.codex/attachments/0f89d3db-3c1b-4289-a8c2-6ee3f3958946/pasted-text.txt\n- Detailed Section 3.3: F:/硕士阶段的论文/投稿EAAI/R1/Data and code/results/methodology/section_3_3_and_appendix_B.md\n- Detailed Section 3.4: F:/硕士阶段的论文/投稿EAAI/R1/Data and code/results/methodology/section_3_4_causal_effect_estimation.md\n- Project implementation: F:/硕士阶段的论文/投稿EAAI/R1/Data and code/src/\n- User-supplied reference framework image: C:/Users/11517/AppData/Local/Temp/codex-clipboard-fe3cbba4-a54f-4e72-bc4d-a9f488d49acf.png\n- GPT Image 2 concept draft: C:/Users/11517/.codex/generated_images/019f9239-3941-72c0-bded-8b9f46eef6ee/exec-c1c67308-d17a-42c5-b726-adf032a6380a.png\n[/Sources]\n\nThe reference figure informed only the three-column and horizontal-band composition. All scientific content and topology were reconstructed from Sections 3.1-3.4. All visible elements in this PPTX are native editable PowerPoint shapes, connectors, and live text."}

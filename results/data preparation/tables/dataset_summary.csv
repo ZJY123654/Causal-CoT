@@ -1,0 +1,26 @@
+﻿metric,value
+case_count,456
+source_file_count,3
+year_min,1993
+year_max,2020
+total_deaths_extracted,439
+total_injuries_extracted,137
+mean_text_chars,757.44
+median_text_chars,686.0
+raw_entity_count,6719
+raw_triple_count,6073
+canonical_entity_count,5480
+canonical_triple_count,4266
+entities_input,D:\论文\投稿EAAI\R1\Data and code\data\kg\entities.jsonl
+triples_input,D:\论文\投稿EAAI\R1\Data and code\data\kg\triples.jsonl
+merged_entity_count,1239
+conflict_count,924
+use_embeddings,True
+same_type_only,True
+thresholds,"{'string_threshold': 0.72, 'combined_threshold': 0.8, 'nil_threshold': 0.68}"
+anonymized_person_replacements,1527
+anonymized_org_replacements,1000
+anonymized_project_replacements,473
+llm_completed_cases,456
+llm_total_elapsed_hms,18:35:39
+llm_average_case_elapsed_hms,00:02:27

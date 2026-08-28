@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "current_step": "",
+  "step_index": 8,
+  "total_steps": 8,
+  "percent_complete": 100.0,
+  "message": "Full experiment completed.",
+  "experiment_started_at": "2026-07-25T09:44:25+08:00",
+  "current_step_started_at": "",
+  "current_step_elapsed_seconds": 0.0,
+  "current_step_elapsed_hms": "00:00:00",
+  "total_elapsed_seconds": 68758.626,
+  "total_elapsed_hms": "19:05:59",
+  "average_completed_step_seconds": 8594.827,
+  "average_completed_step_hms": "02:23:15",
+  "updated_at": "2026-07-26T04:50:24+08:00"
+}

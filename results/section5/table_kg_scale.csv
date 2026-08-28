@@ -1,0 +1,10 @@
+﻿indicator,value,source
+Accident cases,456,anonymized_cases.jsonl
+Raw entities,6617,entities.jsonl
+Raw relations,8061,triples.jsonl
+Canonical entities,5581,canonical_entities.jsonl
+Canonical relations,6385,canonical_triples.jsonl
+Merged entities,1036,fusion_report.json
+Fusion conflicts retained,896,conflicts.jsonl
+LLM extraction time (s),66939.423,extraction_progress.json
+Full pipeline time (s),68758.626,experiment_progress.json

@@ -1,0 +1,3 @@
+﻿refuter,record_count,diagnostic_min,diagnostic_max,diagnostic_mean,p_value_min,p_value_max
+placebo_treatment_refuter,16,1.2083379914545889e-05,0.005337698494870613,0.0017003709258697909,0.78,1.0
+random_common_cause,16,9.058504957637492e-06,0.00037080039559320155,0.00012176390919129219,0.82,1.0

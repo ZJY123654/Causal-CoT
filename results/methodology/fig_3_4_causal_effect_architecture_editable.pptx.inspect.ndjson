@@ -1,0 +1,189 @@
+{"kind":"slide","id":"sl/8slt98","slide":1,"title":"(a)","textShapes":105}
+{"kind":"textbox","id":"sh/al0nipsf","slide":1,"name":"panel-a","text":"(a)","textPreview":"(a)","textChars":3,"textLines":1,"bbox":[18,18,32,28]}
+{"kind":"textbox","id":"sh/hor6d4r6","slide":1,"name":"panel-a-title","text":"Causal variable matrix","textPreview":"Causal variable matrix","textChars":22,"textLines":1,"bbox":[52,18,316,28]}
+{"kind":"textbox","id":"sh/wni5kzal","slide":1,"name":"panel-b","text":"(b)","textPreview":"(b)","textChars":3,"textLines":1,"bbox":[380,18,32,28]}
+{"kind":"textbox","id":"sh/jq9ofe9c","slide":1,"name":"panel-b-title","text":"24Model prior graph and adjustment","textPreview":"24Model prior graph and adjustment","textChars":34,"textLines":1,"bbox":[414,18,501,28]}
+{"kind":"textbox","id":"sh/ip07m9sr","slide":1,"name":"panel-c","text":"(c)","textPreview":"(c)","textChars":3,"textLines":1,"bbox":[930,18,32,28]}
+{"kind":"textbox","id":"sh/5sr6h4r2","slide":1,"name":"panel-c-title","text":"Identification, estimation, and screening","textPreview":"Identification, estimation, and screening","textChars":41,"textLines":1,"bbox":[964,18,458,28]}
+{"kind":"shape","id":"sh/4ripozax","slide":1,"name":"separator-a-b","bbox":[370,16,0,686]}
+{"kind":"shape","id":"sh/rutoje98","slide":1,"name":"separator-b-c","bbox":[920,16,0,686]}
+{"kind":"shape","id":"sh/6tk7q9sn","slide":1,"name":"canonical-hec-kg","bbox":[18,70,105,128]}
+{"kind":"textbox","id":"sh/03exwfy9","slide":1,"name":"canonical-hec-kg-title","text":"Canonical HEC-KG","textPreview":"Canonical HEC-KG","textChars":16,"textLines":1,"bbox":[24,76,93,22]}
+{"kind":"shape","id":"sh/14nepkfu","slide":1,"name":"input-kg-n1","bbox":[32,116,15,15]}
+{"kind":"shape","id":"sh/e1wfu5g3","slide":1,"name":"input-kg-n2","bbox":[71,110,15,15]}
+{"kind":"shape","id":"sh/f25wnaxo","slide":1,"name":"input-kg-n3","bbox":[96,141,15,15]}
+{"kind":"shape","id":"sh/o7yx0fy5","slide":1,"name":"input-kg-n4","bbox":[39,160,15,15]}
+{"kind":"shape","id":"sh/p87ytkfq","slide":1,"name":"input-kg-n5","bbox":[77,169,15,15]}
+{"kind":"shape","id":"sh/25wfy5gz","slide":1,"name":"anonymized-cases","bbox":[18,220,105,128]}
+{"kind":"textbox","id":"sh/n6pwraxk","slide":1,"name":"anonymized-cases-title","text":"Anonymized cases","textPreview":"Anonymized cases","textChars":16,"textLines":1,"bbox":[22,226,97,22]}
+{"kind":"shape","id":"sh/cvyx4zyh","slide":1,"name":"case-page-1","bbox":[36,263,54,63]}
+{"kind":"shape","id":"sh/xw7yx4fm","slide":1,"name":"case-page-0-line-0","bbox":[43,276,38,0]}
+{"kind":"shape","id":"sh/lg36103u","slide":1,"name":"case-page-0-line-1","bbox":[43,286,34,0]}
+{"kind":"shape","id":"sh/kfa5sv29","slide":1,"name":"case-page-0-line-2","bbox":[43,296,30,0]}
+{"kind":"shape","id":"sh/ze1ozqlo","slide":1,"name":"case-page-2","bbox":[42,267,54,63]}
+{"kind":"shape","id":"sh/ydsnqlk3","slide":1,"name":"case-page-1-line-0","bbox":[49,280,38,0]}
+{"kind":"shape","id":"sh/9436503q","slide":1,"name":"case-page-1-line-1","bbox":[49,290,34,0]}
+{"kind":"shape","id":"sh/83u5wv25","slide":1,"name":"case-page-1-line-2","bbox":[49,300,30,0]}
+{"kind":"shape","id":"sh/72lo3al0","slide":1,"name":"case-page-3","bbox":[48,271,54,63]}
+{"kind":"shape","id":"sh/mhcnu5kf","slide":1,"name":"case-page-2-line-0","bbox":[55,284,38,0]}
+{"kind":"shape","id":"sh/p8j6tg3m","slide":1,"name":"case-page-2-line-1","bbox":[55,294,34,0]}
+{"kind":"shape","id":"sh/o7q5kbm1","slide":1,"name":"case-page-2-line-2","bbox":[55,304,30,0]}
+{"kind":"shape","id":"sh/edo3uh0z","slide":1,"name":"case-page-4","bbox":[54,275,54,63]}
+{"kind":"shape","id":"sh/fexk3m1k","slide":1,"name":"case-page-3-line-0","bbox":[61,288,38,0]}
+{"kind":"shape","id":"sh/0f6lwri5","slide":1,"name":"case-page-3-line-1","bbox":[61,298,34,0]}
+{"kind":"shape","id":"sh/1gz25cja","slide":1,"name":"case-page-3-line-2","bbox":[61,308,30,0]}
+{"kind":"textbox","id":"sh/2h83yh0v","slide":1,"name":"case-provenance-mapping","text":"Case provenance\nmapping","textPreview":"Case provenance | mapping","textChars":23,"textLines":2,"bbox":[145,130,102,76]}
+{"kind":"shape","id":"sh/nih47m1g","slide":1,"name":"causal-matrix-frame","bbox":[262,76,95,202]}
+{"kind":"textbox","id":"sh/ojql0ri1","slide":1,"name":"causal-matrix-title","text":"Causal variable\nmatrix X","textPreview":"Causal variable | matrix X","textChars":24,"textLines":2,"bbox":[268,84,83,42]}
+{"kind":"textbox","id":"sh/pkzm9wjm","slide":1,"name":"matrix-r0-c0","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[272,136,12,12]}
+{"kind":"textbox","id":"sh/il43mxkr","slide":1,"name":"matrix-r0-c1","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[284,136,12,12]}
+{"kind":"textbox","id":"sh/jmdkv21c","slide":1,"name":"matrix-r0-c2","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[296,136,12,12]}
+{"kind":"textbox","id":"sh/ji50zet0","slide":1,"name":"matrix-r0-c3","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[308,136,12,12]}
+{"kind":"textbox","id":"sh/yhwjq9cf","slide":1,"name":"matrix-r0-c4","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[320,136,12,12]}
+{"kind":"textbox","id":"sh/lkni1ob6","slide":1,"name":"matrix-r0-c5","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[332,136,12,12]}
+{"kind":"textbox","id":"sh/kje1sjul","slide":1,"name":"matrix-r1-c0","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[272,148,12,12]}
+{"kind":"textbox","id":"sh/76p03ytc","slide":1,"name":"matrix-r1-c1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[284,148,12,12]}
+{"kind":"textbox","id":"sh/6lgjutcr","slide":1,"name":"matrix-r1-c2","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[296,148,12,12]}
+{"kind":"textbox","id":"sh/t87i58b2","slide":1,"name":"matrix-r1-c3","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[308,148,12,12]}
+{"kind":"textbox","id":"sh/87y1w3uh","slide":1,"name":"matrix-r1-c4","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[320,148,12,12]}
+{"kind":"textbox","id":"sh/vap07yt8","slide":1,"name":"matrix-r1-c5","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[332,148,12,12]}
+{"kind":"textbox","id":"sh/u9gjydcn","slide":1,"name":"matrix-r2-c0","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[272,160,12,12]}
+{"kind":"textbox","id":"sh/sfiho3q1","slide":1,"name":"matrix-r2-c1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[284,160,12,12]}
+{"kind":"textbox","id":"sh/dgrih8r6","slide":1,"name":"matrix-r2-c2","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[296,160,12,12]}
+{"kind":"textbox","id":"sh/qd0zmd8v","slide":1,"name":"matrix-r2-c3","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[308,160,12,12]}
+{"kind":"textbox","id":"sh/re90fi9g","slide":1,"name":"matrix-r2-c4","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[320,160,12,12]}
+{"kind":"textbox","id":"sh/4byhk3qp","slide":1,"name":"matrix-r2-c5","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[332,160,12,12]}
+{"kind":"textbox","id":"sh/5crid8ra","slide":1,"name":"matrix-r3-c0","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[272,172,12,12]}
+{"kind":"textbox","id":"sh/i9gzit8j","slide":1,"name":"matrix-r3-c1","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[284,172,12,12]}
+{"kind":"textbox","id":"sh/3ap0by94","slide":1,"name":"matrix-r3-c2","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[296,172,12,12]}
+{"kind":"textbox","id":"sh/gnyhgjat","slide":1,"name":"matrix-r3-c3","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[308,172,12,12]}
+{"kind":"textbox","id":"sh/h87i9ore","slide":1,"name":"matrix-r3-c4","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[320,172,12,12]}
+{"kind":"textbox","id":"sh/xsf6xgfq","slide":1,"name":"matrix-r3-c5","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[332,172,12,12]}
+{"kind":"textbox","id":"sh/wr6povy5","slide":1,"name":"matrix-r4-c0","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[272,184,12,12]}
+{"kind":"textbox","id":"sh/bqxovqxk","slide":1,"name":"matrix-r4-c1","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[284,184,12,12]}
+{"kind":"textbox","id":"sh/apo7mlgf","slide":1,"name":"matrix-r4-c2","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[296,184,12,12]}
+{"kind":"textbox","id":"sh/94f6tgfu","slide":1,"name":"matrix-r4-c3","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[308,184,12,12]}
+{"kind":"textbox","id":"sh/o365kby9","slide":1,"name":"matrix-r4-c4","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[320,184,12,12]}
+{"kind":"textbox","id":"sh/n2dor6xo","slide":1,"name":"matrix-r4-c5","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[332,184,12,12]}
+{"kind":"textbox","id":"sh/m14ni1g3","slide":1,"name":"matrix-r5-c0","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[272,196,12,12]}
+{"kind":"textbox","id":"sh/t0z65kfy","slide":1,"name":"matrix-r5-c1","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[284,196,12,12]}
+{"kind":"textbox","id":"sh/8zqpwfyd","slide":1,"name":"matrix-r5-c2","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[296,196,12,12]}
+{"kind":"textbox","id":"sh/q5k3qxwv","slide":1,"name":"matrix-r5-c3","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[308,196,12,12]}
+{"kind":"textbox","id":"sh/r6t4z2dg","slide":1,"name":"matrix-r5-c4","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[320,196,12,12]}
+{"kind":"textbox","id":"sh/c72ls7e1","slide":1,"name":"matrix-r5-c5","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[332,196,12,12]}
+{"kind":"textbox","id":"sh/d8bm1cvm","slide":1,"name":"matrix-r6-c0","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[272,208,12,12]}
+{"kind":"textbox","id":"sh/i103mxwz","slide":1,"name":"matrix-r6-c1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[284,208,12,12]}
+{"kind":"textbox","id":"sh/3294v2dk","slide":1,"name":"matrix-r6-c2","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[296,208,12,12]}
+{"kind":"textbox","id":"sh/43ilo7ep","slide":1,"name":"matrix-r6-c3","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[308,208,12,12]}
+{"kind":"textbox","id":"sh/54bmxcva","slide":1,"name":"matrix-r6-c4","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[320,208,12,12]}
+{"kind":"textbox","id":"sh/mx43yhw3","slide":1,"name":"matrix-r6-c5","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[332,208,12,12]}
+{"kind":"textbox","id":"sh/nyd47mdo","slide":1,"name":"matrix-dimension","text":"N × K","textPreview":"N × K","textChars":5,"textLines":1,"bbox":[274,226,70,22]}
+{"kind":"textbox","id":"sh/vu94rm5s","slide":1,"name":"variable-map","text":"Variable map φ","textPreview":"Variable map φ","textChars":14,"textLines":1,"bbox":[267,246,84,25]}
+{"kind":"textbox","id":"sh/at03iho7","slide":1,"name":"entity-level-features","text":"Entity-level features\nxᵢₖ ∈ {0,1}","textPreview":"Entity-level features | xᵢₖ ∈ {0,1}","textChars":33,"textLines":2,"bbox":[145,246,106,52]}
+{"kind":"textbox","id":"sh/xgrmtwny","slide":1,"name":"layer-indicators-counts","text":"Layer indicators Lᵢℓ\nCounts Cᵢℓ","textPreview":"Layer indicators Lᵢℓ | Counts Cᵢℓ","textChars":31,"textLines":2,"bbox":[145,316,106,58]}
+{"kind":"textbox","id":"sh/wvilkr6d","slide":1,"name":"severe-consequence-y","text":"Severe consequence Y\nlexicon + KG evidence","textPreview":"Severe consequence Y | lexicon + KG evidence","textChars":42,"textLines":2,"bbox":[145,392,106,62]}
+{"kind":"textbox","id":"sh/nqpknm5w","slide":1,"name":"accident-type-note","text":"AccidentType\nmatrix feature only","textPreview":"AccidentType | matrix feature only","textChars":32,"textLines":2,"bbox":[267,312,88,52]}
+{"kind":"textbox","id":"sh/mpg3ehob","slide":1,"name":"excluded-adjustment-label","text":"excluded from adjustment","textPreview":"excluded from adjustment","textChars":24,"textLines":1,"bbox":[257,368,108,20]}
+{"kind":"textbox","id":"sh/9srmpcnm","slide":1,"name":"matrix-summary","text":"Case-level observational data\nprovenance preserved","textPreview":"Case-level observational data | provenance preserved","textChars":50,"textLines":2,"bbox":[48,500,276,64]}
+{"kind":"textbox","id":"sh/8rilg761","slide":1,"name":"estimand-scope","text":"Target: severity among recorded accidents\nnot accident occurrence","textPreview":"Target: severity among recorded accidents | not accident occurrence","textChars":65,"textLines":2,"bbox":[48,590,276,58]}
+{"kind":"shape","id":"sh/zmpkj25k","slide":1,"name":"prior-dag-frame","bbox":[394,66,500,296]}
+{"kind":"textbox","id":"sh/ylg3axoz","slide":1,"name":"prior-dag-title","text":"Prior causal graph G₂₄","textPreview":"Prior causal graph G₂₄","textChars":22,"textLines":1,"bbox":[408,72,190,24]}
+{"kind":"textbox","id":"sh/4fu94jil","slide":1,"name":"dag-scd","text":"SCD","textPreview":"SCD","textChars":3,"textLines":1,"bbox":[424,118,48,48]}
+{"kind":"textbox","id":"sh/5g3ax4z6","slide":1,"name":"dag-smd","text":"SMD","textPreview":"SMD","textChars":3,"textLines":1,"bbox":[510,118,48,48]}
+{"kind":"textbox","id":"sh/itsr290f","slide":1,"name":"dag-scap","text":"SCap","textPreview":"SCap","textChars":4,"textLines":1,"bbox":[596,118,48,48]}
+{"kind":"textbox","id":"sh/3ulsveh0","slide":1,"name":"dag-ua","text":"UA","textPreview":"UA","textChars":2,"textLines":1,"bbox":[682,102,48,48]}
+{"kind":"textbox","id":"sh/sju98jix","slide":1,"name":"dag-uos","text":"UOS","textPreview":"UOS","textChars":3,"textLines":1,"bbox":[682,180,48,48]}
+{"kind":"textbox","id":"sh/dk3a1ozi","slide":1,"name":"dag-y","text":"Y","textPreview":"Y","textChars":1,"textLines":1,"bbox":[790,140,58,58]}
+{"kind":"textbox","id":"sh/qhcr690r","slide":1,"name":"dag-act","text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[500,260,46,46]}
+{"kind":"textbox","id":"sh/rilszehc","slide":1,"name":"dag-env","text":"Env","textPreview":"Env","textChars":3,"textLines":1,"bbox":[590,260,46,46]}
+{"kind":"textbox","id":"sh/8na9wzid","slide":1,"name":"dag-atype","text":"Accident\nType","textPreview":"Accident | Type","textChars":13,"textLines":2,"bbox":[764,272,66,66]}
+{"kind":"shape","id":"sh/tojqpkzy","slide":1,"name":"legend-org-dot","bbox":[410,326,13,13]}
+{"kind":"textbox","id":"sh/6xsr290z","slide":1,"name":"legend-org","text":"Organizational","textPreview":"Organizational","textChars":14,"textLines":1,"bbox":[426,322,82,20]}
+{"kind":"shape","id":"sh/ry18vehk","slide":1,"name":"legend-cap-dot","bbox":[516,326,13,13]}
+{"kind":"textbox","id":"sh/sza94ji5","slide":1,"name":"legend-cap","text":"Capability","textPreview":"Capability","textChars":10,"textLines":1,"bbox":[532,322,64,20]}
+{"kind":"shape","id":"sh/t0jqxozq","slide":1,"name":"legend-direct-dot","bbox":[604,326,13,13]}
+{"kind":"textbox","id":"sh/e1sr6t0b","slide":1,"name":"legend-direct","text":"Direct cause","textPreview":"Direct cause","textChars":12,"textLines":1,"bbox":[620,322,68,20]}
+{"kind":"shape","id":"sh/fm18zyhg","slide":1,"name":"legend-context-dot","bbox":[696,326,13,13]}
+{"kind":"textbox","id":"sh/gna983i1","slide":1,"name":"legend-context","text":"Context","textPreview":"Context","textChars":7,"textLines":1,"bbox":[712,322,52,20]}
+{"kind":"shape","id":"sh/1o3q18zm","slide":1,"name":"legend-outcome-dot","bbox":[774,326,13,13]}
+{"kind":"textbox","id":"sh/a587up0r","slide":1,"name":"legend-outcome","text":"Outcome","textPreview":"Outcome","textChars":7,"textLines":1,"bbox":[790,322,50,20]}
+{"kind":"textbox","id":"sh/vqh8nuhc","slide":1,"name":"candidate-treatments","text":"Candidate treatments\nSMD · UA · UOS","textPreview":"Candidate treatments | SMD · UA · UOS","textChars":35,"textLines":2,"bbox":[394,408,134,72]}
+{"kind":"textbox","id":"sh/dknutsju","slide":1,"name":"support-overlap-filters","text":"Support & overlap\nsₘᵢₙ = 20 each arm\nnon-empty 2×2 cells\ntop k = 20","textPreview":"Support & overlap | sₘᵢₙ = 20 each arm | non-empty 2×2 cells | top k = 20","textChars":67,"textLines":4,"bbox":[550,394,148,102]}
+{"kind":"shape","id":"sh/cjet0729","slide":1,"name":"treatment-graph-frame","bbox":[726,390,168,148]}
+{"kind":"textbox","id":"sh/bi5sr21o","slide":1,"name":"treatment-graph-title","text":"Treatment-specific graph Gₜ","textPreview":"Treatment-specific graph Gₜ","textChars":27,"textLines":1,"bbox":[734,396,152,24]}
+{"kind":"textbox","id":"sh/qhwbyxkj","slide":1,"name":"gt-z1","text":"Z₁","textPreview":"Z₁","textChars":2,"textLines":1,"bbox":[742,438,34,34]}
+{"kind":"textbox","id":"sh/lo7uxcj6","slide":1,"name":"gt-z2","text":"Z₂","textPreview":"Z₂","textChars":2,"textLines":1,"bbox":[742,486,34,34]}
+{"kind":"textbox","id":"sh/0net472l","slide":1,"name":"gt-t","text":"T","textPreview":"T","textChars":1,"textLines":1,"bbox":[806,450,42,42]}
+{"kind":"textbox","id":"sh/zm5cv210","slide":1,"name":"gt-y","text":"Y","textPreview":"Y","textChars":1,"textLines":1,"bbox":[854,450,42,42]}
+{"kind":"textbox","id":"sh/ylwb2xkf","slide":1,"name":"z-set-label","text":"Zₜ","textPreview":"Zₜ","textChars":2,"textLines":1,"bbox":[748,516,30,16]}
+{"kind":"textbox","id":"sh/1s3al8jm","slide":1,"name":"constraint-upstream","text":"Upstream + context only","textPreview":"Upstream + context only","textChars":23,"textLines":1,"bbox":[410,548,154,30]}
+{"kind":"textbox","id":"sh/grutsn21","slide":1,"name":"constraint-exclusions","text":"Same layer / descendants excluded","textPreview":"Same layer / descendants excluded","textChars":33,"textLines":1,"bbox":[574,548,196,30]}
+{"kind":"textbox","id":"sh/s7ilo7e9","slide":1,"name":"constraint-max-z","text":"|Zₜ| ≤ 12","textPreview":"|Zₜ| ≤ 12","textChars":9,"textLines":1,"bbox":[780,548,100,30]}
+{"kind":"textbox","id":"sh/t8r2xcvu","slide":1,"name":"theory-driven-note","text":"Theory-driven direction\nNo structure discovery","textPreview":"Theory-driven direction | No structure discovery","textChars":46,"textLines":2,"bbox":[484,608,310,54]}
+{"kind":"textbox","id":"sh/6lg3mhw3","slide":1,"name":"dowhy-model","text":"DoWhy\nCausalModel","textPreview":"DoWhy | CausalModel","textChars":17,"textLines":2,"bbox":[948,84,108,62]}
+{"kind":"textbox","id":"sh/rmpkv2xo","slide":1,"name":"backdoor-identify","text":"Backdoor\nidentify","textPreview":"Backdoor | identify","textChars":17,"textLines":2,"bbox":[1080,84,108,62]}
+{"kind":"textbox","id":"sh/gbilsre5","slide":1,"name":"ols-estimate","text":"OLS estimate\nτ̂ₜ = β̂ₜ","textPreview":"OLS estimate | τ̂ₜ = β̂ₜ","textChars":22,"textLines":2,"bbox":[1212,84,108,62]}
+{"kind":"textbox","id":"sh/1cr21wvq","slide":1,"name":"bootstrap","text":"Bootstrap\nB = 500","textPreview":"Bootstrap | B = 500","textChars":17,"textLines":2,"bbox":[1328,84,92,62]}
+{"kind":"textbox","id":"sh/e903qhwf","slide":1,"name":"identification-assumptions","text":"Identification assumptions\nconsistency · positivity\nconditional exchangeability","textPreview":"Identification assumptions | consistency · positivity | conditional exchangeability","textChars":79,"textLines":3,"bbox":[1002,184,208,78]}
+{"kind":"textbox","id":"sh/fa9kzmd0","slide":1,"name":"bootstrap-uncertainty","text":"Percentile 95% CI\nbootstrap SE · p diagnostic","textPreview":"Percentile 95% CI | bootstrap SE · p diagnostic","textChars":45,"textLines":2,"bbox":[1230,184,178,78]}
+{"kind":"textbox","id":"sh/of2lwreh","slide":1,"name":"refutation-title","text":"Refutation diagnostics","textPreview":"Refutation diagnostics","textChars":22,"textLines":1,"bbox":[1040,304,250,24]}
+{"kind":"textbox","id":"sh/pgb25wv2","slide":1,"name":"random-common-cause","text":"Random common cause","textPreview":"Random common cause","textChars":19,"textLines":1,"bbox":[1000,342,174,54]}
+{"kind":"textbox","id":"sh/zadovqx4","slide":1,"name":"placebo-treatment","text":"Placebo treatment","textPreview":"Placebo treatment","textChars":17,"textLines":1,"bbox":[1218,342,174,54]}
+{"kind":"shape","id":"sh/y94nmlgj","slide":1,"name":"effect-record","bbox":[1018,456,354,126]}
+{"kind":"textbox","id":"sh/lwv6x0fa","slide":1,"name":"effect-record-title","text":"Effect record","textPreview":"Effect record","textChars":13,"textLines":1,"bbox":[1036,466,135,28]}
+{"kind":"textbox","id":"sh/0bm5ovyp","slide":1,"name":"output-ate","text":"ATE","textPreview":"ATE","textChars":3,"textLines":1,"bbox":[1034,512,55,34]}
+{"kind":"textbox","id":"sh/b6d4rqx8","slide":1,"name":"output-ci","text":"95% CI","textPreview":"95% CI","textChars":6,"textLines":1,"bbox":[1098,512,70,34]}
+{"kind":"textbox","id":"sh/q5knilgn","slide":1,"name":"output-rd","text":"Unadjusted RD","textPreview":"Unadjusted RD","textChars":13,"textLines":1,"bbox":[1177,512,95,34]}
+{"kind":"textbox","id":"sh/d8v6t0fy","slide":1,"name":"output-review","text":"needs_review","textPreview":"needs_review","textChars":12,"textLines":1,"bbox":[1281,512,80,34]}
+{"kind":"textbox","id":"sh/c7m5kvyd","slide":1,"name":"output-provenance","text":"estimand · Zₜ · group risks · refuter records","textPreview":"estimand · Zₜ · group risks · refuter records","textChars":45,"textLines":1,"bbox":[1036,552,318,22]}
+{"kind":"textbox","id":"sh/v2xo3axc","slide":1,"name":"quality-gate","text":"Quality gate\nusable estimate or review flag","textPreview":"Quality gate | usable estimate or review flag","textChars":43,"textLines":2,"bbox":[1052,624,286,52]}
+{"kind":"shape","id":"sh/a1onu5gr","slide":1,"name":"input-kg-edge-1","bbox":[47,117.5,24,6]}
+{"kind":"shape","id":"sh/i94ry9cv","slide":1,"name":"input-kg-edge-2","bbox":[83.8,122.8,14.39,20.39]}
+{"kind":"shape","id":"sh/3ad8redg","slide":1,"name":"input-kg-edge-3","bbox":[39.5,131,7,29]}
+{"kind":"shape","id":"sh/4bm90ju1","slide":1,"name":"input-kg-edge-4","bbox":[54,167.5,23,9]}
+{"kind":"shape","id":"sh/5cfatovm","slide":1,"name":"input-kg-edge-5","bbox":[89.8,153.8,8.39,17.39]}
+{"kind":"shape","id":"sh/ul4rupcz","slide":1,"name":"kg-to-provenance","bbox":[123,134,22,34]}
+{"kind":"shape","id":"sh/vmd8nudk","slide":1,"name":"cases-to-provenance","bbox":[123,168,22,116]}
+{"kind":"shape","id":"sh/gnm9wzu5","slide":1,"name":"provenance-to-matrix","bbox":[247,168,15,9]}
+{"kind":"shape","id":"sh/hovqp4vq","slide":1,"name":"entity-to-matrix","bbox":[251,177,11,95]}
+{"kind":"shape","id":"sh/ehor6tc3","slide":1,"name":"layer-to-matrix","bbox":[251,278,58.5,67]}
+{"kind":"shape","id":"sh/fixszyto","slide":1,"name":"severe-to-matrix","bbox":[251,278,58.5,145]}
+{"kind":"shape","id":"sh/pcjupsfq","slide":1,"name":"matrix-to-summary","bbox":[186,278,123.5,222]}
+{"kind":"shape","id":"sh/obatwnel","slide":1,"name":"dag-scd-smd","bbox":[472,142,38,0]}
+{"kind":"shape","id":"sh/nahcnix0","slide":1,"name":"dag-smd-scap","bbox":[558,142,38,0]}
+{"kind":"shape","id":"sh/298budwf","slide":1,"name":"dag-scap-ua","bbox":[644,126,38,16]}
+{"kind":"shape","id":"sh/18zulsfu","slide":1,"name":"dag-smd-uos","bbox":[534,166,148,38]}
+{"kind":"shape","id":"sh/07qtsne9","slide":1,"name":"dag-ua-y","bbox":[730,126,60,43]}
+{"kind":"shape","id":"sh/f6hcjixo","slide":1,"name":"dag-uos-y","bbox":[730,169,60,35]}
+{"kind":"shape","id":"sh/e58bqdw3","slide":1,"name":"dag-act-ua","bbox":[523,150,183,110]}
+{"kind":"shape","id":"sh/l43uxcvy","slide":1,"name":"dag-act-uos","bbox":[523,228,183,32]}
+{"kind":"shape","id":"sh/k3ud47ed","slide":1,"name":"dag-env-uos","bbox":[613,228,93,32]}
+{"kind":"shape","id":"sh/4j25gfq1","slide":1,"name":"dag-env-y","bbox":[636,198,183,85]}
+{"kind":"shape","id":"sh/5kv6pk7m","slide":1,"name":"dag-atype-y","bbox":[797,198,22,74]}
+{"kind":"shape","id":"sh/ihkne58v","slide":1,"name":"matrix-to-candidates","bbox":[324,444,70,88]}
+{"kind":"shape","id":"sh/jitonapg","slide":1,"name":"candidate-to-filters","bbox":[528,444,22,1]}
+{"kind":"shape","id":"sh/wv25cfqp","slide":1,"name":"filters-to-treatment-graph","bbox":[698,445,28,19]}
+{"kind":"shape","id":"sh/hwbml07a","slide":1,"name":"dag-to-treatment-graph","bbox":[644,362,166,28]}
+{"kind":"shape","id":"sh/utkna58z","slide":1,"name":"gt-z1-t","bbox":[776,455,30,16]}
+{"kind":"shape","id":"sh/vut4japk","slide":1,"name":"gt-z1-y","bbox":[776,450,99,5]}
+{"kind":"shape","id":"sh/8ri58vqt","slide":1,"name":"gt-z2-t","bbox":[776,471,30,32]}
+{"kind":"shape","id":"sh/9srmh07e","slide":1,"name":"gt-z2-y","bbox":[776,492,99,11]}
+{"kind":"shape","id":"sh/bm9orqt0","slide":1,"name":"gt-t-y","bbox":[848,471,6,0]}
+{"kind":"shape","id":"sh/algnylsv","slide":1,"name":"gt-to-model","bbox":[894,115,54,349]}
+{"kind":"shape","id":"sh/xor6t0b6","slide":1,"name":"model-to-identify","bbox":[1056,115,24,0]}
+{"kind":"shape","id":"sh/cni5kval","slide":1,"name":"identify-to-estimate","bbox":[1188,115,24,0]}
+{"kind":"shape","id":"sh/zq9ovqtc","slide":1,"name":"estimate-to-bootstrap","bbox":[1320,115,8,0]}
+{"kind":"shape","id":"sh/yp07m5sr","slide":1,"name":"identify-to-assumptions","bbox":[1106,146,28,38]}
+{"kind":"shape","id":"sh/lsr6x0bi","slide":1,"name":"bootstrap-to-uncertainty","bbox":[1319,146,55,38]}
+{"kind":"shape","id":"sh/kripovax","slide":1,"name":"estimate-to-random","bbox":[1087,146,179,196]}
+{"kind":"shape","id":"sh/7utozat8","slide":1,"name":"estimate-to-placebo","bbox":[1266,146,154,196]}
+{"kind":"shape","id":"sh/mtk7q5sn","slide":1,"name":"random-to-effect","bbox":[1087,396,108,60]}
+{"kind":"shape","id":"sh/u10ru9o7","slide":1,"name":"placebo-to-effect","bbox":[1195,396,110,60]}
+{"kind":"shape","id":"sh/f29sneps","slide":1,"name":"effect-to-quality","bbox":[1195,582,0,42]}
+{"kind":"shape","id":"sh/g3i9wz6x","slide":1,"name":"loop-top","bbox":[1422,63,2,2]}
+{"kind":"shape","id":"sh/h4rap47i","slide":1,"name":"loop-bottom","bbox":[1422,602,2,2]}
+{"kind":"shape","id":"sh/250ry9o3","slide":1,"name":"loop-quality-bottom","bbox":[1338,603,84,47]}
+{"kind":"shape","id":"sh/369srepo","slide":1,"name":"loop-bottom-top","bbox":[1423,65,0,537]}
+{"kind":"shape","id":"sh/47290j69","slide":1,"name":"loop-top-model","bbox":[1002,60,420,24]}
+{"kind":"textbox","id":"sh/psbato7u","slide":1,"name":"next-treatment-label","text":"next T","textPreview":"next T","textChars":6,"textLines":1,"bbox":[1362,592,56,22]}
+{"kind":"notes","id":"nt/8slt98","slide":1,"text":"[Sources]\n- User-authored Section 3.4: F:/硕士阶段的论文/投稿EAAI/R1/Data and code/results/methodology/section_3_4_causal_effect_estimation.md\n- Causal-analysis implementation: F:/硕士阶段的论文/投稿EAAI/R1/Data and code/src/causal_analysis/\n- Active parameters: F:/硕士阶段的论文/投稿EAAI/R1/Data and code/configs/settings.yaml\n- Reference composition principles: CCFA Visual Composer paper-mechanism figure guidance; no external figure was copied.\n[/Sources]\n\nAll visible elements are native editable PowerPoint shapes, connectors, lines, and live text. The attempted GPT Image 2 concept pass was unavailable because of a network error, so the figure was reconstructed deterministically from the approved visual contract."}

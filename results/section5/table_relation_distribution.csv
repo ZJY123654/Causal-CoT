@@ -1,0 +1,13 @@
+﻿relation_type,raw_count,canonical_count,merged_or_reduced,reduction_percent,case_coverage
+controlledBy,455,365,90,19.78,455
+hasAccidentType,336,336,0,0.0,324
+hasCapabilityCause,1814,986,828,45.64,394
+hasConsequence,393,386,7,1.78,292
+hasCultureCause,171,95,76,44.44,95
+hasDirectCause,817,817,0,0.0,456
+hasEnvironmentCondition,288,286,2,0.69,232
+hasManagementCause,2359,1783,576,24.42,446
+involvesEquipment,195,195,0,0.0,171
+involvesObject,461,456,5,1.08,326
+leadTo,456,365,91,19.96,456
+occursInActivity,316,315,1,0.32,259
