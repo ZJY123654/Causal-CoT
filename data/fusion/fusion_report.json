@@ -1,0 +1,17 @@
+{
+  "entities_input": "data/kg/entities.jsonl",
+  "triples_input": "data/kg/triples.jsonl",
+  "raw_entity_count": 6617,
+  "raw_triple_count": 8061,
+  "canonical_entity_count": 5581,
+  "canonical_triple_count": 6385,
+  "merged_entity_count": 1036,
+  "conflict_count": 896,
+  "use_embeddings": true,
+  "same_type_only": true,
+  "thresholds": {
+    "string_threshold": 0.72,
+    "combined_threshold": 0.8,
+    "nil_threshold": 0.68
+  }
+}
