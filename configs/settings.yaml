@@ -27,7 +27,7 @@ paths:
   neo4j_relationships: "data/neo4j/neo4j_relationships.csv"
 
 llm:
-  base_url: "https://yunwu.ai/v1"
+  base_url: "your url"
   model: "gpt-4o"
   embedding_model: "text-embedding-3-large"
   temperature: 0
@@ -38,9 +38,9 @@ llm:
   min_vote_margin: 1
 
 neo4j:
-  uri: "bolt://localhost:7687"
-  user: "neo4j"
-  password: "zjy20020111"
+  uri: "your uri"
+  user: "your user"
+  password: "your password"
 
 cleaning:
   min_case_chars: 80
