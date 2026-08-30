@@ -1,8 +1,0 @@
-﻿step,operation,output
-资料收集,从安全管理网、应急管理部公开信息及《水电工程施工事故案例汇编》等来源汇集事故案例文本。,原始 Word/网页文本
-格式转换,读取 docx，并通过 Word COM 支持 doc 文档转换/读取。,段落文本
-文本清洗,统一空白、标点、页码和标题格式；按案例编号切分。,cleaned_cases.jsonl
-字段解析,解析标题、事故类型、时间、地点、伤亡、经过、原因、措施等字段。,结构化案例记录
-不可逆脱敏,替换人名、公司/项目部、施工局等敏感表达，不保存可逆映射。,anonymized_cases.jsonl
-LLM抽取,按24Model问题链执行证据、实体、关系、投票和验证。,extraction_results.jsonl
-知识融合,字符串召回、向量重排、NIL检测、同类型对齐、冲突记录和关系合并。,canonical_entities/triples.jsonl
