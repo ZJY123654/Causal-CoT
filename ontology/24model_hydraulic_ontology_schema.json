@@ -1,0 +1,239 @@
+{
+  "ontology_name": "HydraulicConstructionAccidentOntology_24Model",
+  "version": "0.1",
+  "theoretical_basis": "Accident causation 24Model, sixth version",
+  "entity_classes": [
+    {
+      "name": "AccidentCase",
+      "label_zh": "事故案例",
+      "category": "事故事实",
+      "description": "具体水利工程施工事故调查报告或事故记录",
+      "examples": ["某水库除险加固工程坍塌事故"]
+    },
+    {
+      "name": "AccidentType",
+      "label_zh": "事故类型",
+      "category": "事故事实",
+      "description": "事故类别",
+      "examples": ["坍塌", "涌水", "滑坡", "起重伤害", "机械伤害", "高处坠落", "触电", "爆破事故"]
+    },
+    {
+      "name": "ConstructionActivity",
+      "label_zh": "施工活动",
+      "category": "水利施工领域对象",
+      "description": "事故发生时对应的施工工序或作业活动",
+      "examples": ["围堰施工", "基坑开挖", "隧洞掘进", "边坡支护", "混凝土浇筑", "吊装作业"]
+    },
+    {
+      "name": "EngineeringObject",
+      "label_zh": "工程对象",
+      "category": "水利施工领域对象",
+      "description": "事故涉及的水利工程结构、临时结构或作业部位",
+      "examples": ["围堰", "基坑", "边坡", "隧洞", "闸室", "大坝", "脚手架", "模板支撑体系"]
+    },
+    {
+      "name": "EnvironmentCondition",
+      "label_zh": "环境条件",
+      "category": "水利施工领域对象",
+      "description": "与事故相关的自然、水文、地质或施工环境因素",
+      "examples": ["强降雨", "高水位", "复杂地质", "软弱夹层", "地下水丰富", "夜间施工"]
+    },
+    {
+      "name": "EquipmentFacility",
+      "label_zh": "设备设施",
+      "category": "水利施工领域对象",
+      "description": "事故涉及的机械设备、防护设施、临时设施或监测设备",
+      "examples": ["起重机械", "挖掘机", "排水设备", "支护结构", "防护栏杆", "监测仪器"]
+    },
+    {
+      "name": "UnsafeAction",
+      "label_zh": "人的不安全动作",
+      "category": "24Model-人和物的安全动作",
+      "description": "作业人员、管理人员或相关人员实施的不安全行为",
+      "examples": ["违章指挥", "冒险作业", "未佩戴防护用品", "擅自拆除支护"]
+    },
+    {
+      "name": "UnsafeObjectState",
+      "label_zh": "物的不安全状态",
+      "category": "24Model-人和物的安全动作",
+      "description": "设备、设施、材料、结构或环境处于不安全状态",
+      "examples": ["支护不足", "围堰渗漏", "边坡失稳", "设备带病运行", "防护缺失"]
+    },
+    {
+      "name": "SafetyCapabilityDefect",
+      "label_zh": "人的安全能力缺陷",
+      "category": "24Model-人的安全能力",
+      "description": "个体在安全知识、意识、习惯、心理或生理方面的缺陷",
+      "examples": ["安全知识不足", "风险意识薄弱", "侥幸心理", "疲劳作业", "习惯性违章"]
+    },
+    {
+      "name": "SafetyManagementDefect",
+      "label_zh": "安全管理体系缺陷",
+      "category": "24Model-安全管理体系",
+      "description": "制度、责任、培训、监督、风险管控、隐患排查、应急管理等缺陷",
+      "examples": ["安全培训不足", "专项方案缺失", "隐患排查不到位", "监测预警缺失"]
+    },
+    {
+      "name": "SafetyCultureDefect",
+      "label_zh": "安全文化缺陷",
+      "category": "24Model-安全文化",
+      "description": "组织安全理念、价值观、态度和安全优先意识方面的深层缺陷",
+      "examples": ["重进度轻安全", "安全投入不足", "安全责任意识淡薄"]
+    },
+    {
+      "name": "AccidentProcess",
+      "label_zh": "事故过程",
+      "category": "事故演化",
+      "description": "事故从风险因素触发到后果形成的事件链节点",
+      "examples": ["围堰渗漏扩大", "基坑涌水", "边坡滑移", "人员坠落"]
+    },
+    {
+      "name": "Consequence",
+      "label_zh": "事故后果",
+      "category": "事故结果",
+      "description": "事故造成的损失或影响",
+      "examples": ["死亡", "受伤", "经济损失", "工程损毁", "工期延误"]
+    },
+    {
+      "name": "PreventiveMeasure",
+      "label_zh": "防控措施",
+      "category": "风险治理",
+      "description": "用于预防、控制或减轻事故风险的措施",
+      "examples": ["加强监测预警", "完善支护方案", "开展安全培训", "落实旁站监督"]
+    }
+  ],
+  "relation_types": [
+    {
+      "name": "hasAccidentType",
+      "subject": ["AccidentCase"],
+      "object": ["AccidentType"],
+      "label_zh": "属于事故类型"
+    },
+    {
+      "name": "occursInActivity",
+      "subject": ["AccidentCase"],
+      "object": ["ConstructionActivity"],
+      "label_zh": "发生于施工活动"
+    },
+    {
+      "name": "involvesObject",
+      "subject": ["AccidentCase"],
+      "object": ["EngineeringObject"],
+      "label_zh": "涉及工程对象"
+    },
+    {
+      "name": "involvesEquipment",
+      "subject": ["AccidentCase"],
+      "object": ["EquipmentFacility"],
+      "label_zh": "涉及设备设施"
+    },
+    {
+      "name": "hasEnvironmentCondition",
+      "subject": ["AccidentCase"],
+      "object": ["EnvironmentCondition"],
+      "label_zh": "具有环境条件"
+    },
+    {
+      "name": "hasDirectCause",
+      "subject": ["AccidentCase"],
+      "object": ["UnsafeAction", "UnsafeObjectState"],
+      "label_zh": "具有直接原因"
+    },
+    {
+      "name": "hasCapabilityCause",
+      "subject": ["UnsafeAction"],
+      "object": ["SafetyCapabilityDefect"],
+      "label_zh": "源于安全能力缺陷"
+    },
+    {
+      "name": "hasManagementCause",
+      "subject": ["UnsafeAction", "UnsafeObjectState", "SafetyCapabilityDefect"],
+      "object": ["SafetyManagementDefect"],
+      "label_zh": "源于安全管理体系缺陷"
+    },
+    {
+      "name": "hasCultureCause",
+      "subject": ["SafetyManagementDefect"],
+      "object": ["SafetyCultureDefect"],
+      "label_zh": "源于安全文化缺陷"
+    },
+    {
+      "name": "leadTo",
+      "subject": ["UnsafeAction", "UnsafeObjectState", "AccidentProcess"],
+      "object": ["AccidentProcess", "Consequence"],
+      "label_zh": "导致"
+    },
+    {
+      "name": "controlledBy",
+      "subject": ["UnsafeAction", "UnsafeObjectState", "SafetyCapabilityDefect", "SafetyManagementDefect"],
+      "object": ["PreventiveMeasure"],
+      "label_zh": "可由措施控制"
+    },
+    {
+      "name": "hasConsequence",
+      "subject": ["AccidentCase"],
+      "object": ["Consequence"],
+      "label_zh": "造成后果"
+    }
+  ],
+  "common_properties": [
+    "case_id",
+    "source_report",
+    "evidence_text",
+    "confidence",
+    "normalized_name",
+    "model_layer",
+    "needs_review"
+  ],
+  "extraction_output_shape": {
+    "case_info": {
+      "case_id": "",
+      "report_title": "",
+      "accident_date": "",
+      "location": "",
+      "project_type": "",
+      "construction_stage": "",
+      "accident_type": "",
+      "consequence": {
+        "death_toll": null,
+        "injury_count": null,
+        "economic_loss": null,
+        "description": ""
+      },
+      "evidence_text": ""
+    },
+    "domain_entities": {
+      "construction_activities": [],
+      "engineering_objects": [],
+      "environment_conditions": [],
+      "equipment_facilities": []
+    },
+    "causal_entities_24model": {
+      "unsafe_actions": [],
+      "unsafe_object_states": [],
+      "safety_capability_defects": [],
+      "safety_management_defects": [],
+      "safety_culture_defects": []
+    },
+    "triples": [
+      {
+        "subject": "",
+        "subject_type": "",
+        "predicate": "",
+        "object": "",
+        "object_type": "",
+        "evidence_text": "",
+        "confidence": null,
+        "needs_review": false
+      }
+    ]
+  },
+  "constraints": [
+    "hasDirectCause can only target UnsafeAction or UnsafeObjectState.",
+    "hasManagementCause can only target SafetyManagementDefect.",
+    "hasCultureCause should connect SafetyManagementDefect to SafetyCultureDefect.",
+    "Every extracted entity and relation should preserve evidence_text.",
+    "Unsupported inferred knowledge should be excluded or marked needs_review=true.",
+    "Hydraulic domain objects should not be misclassified as 24Model causal defects."
+  ]
+}
